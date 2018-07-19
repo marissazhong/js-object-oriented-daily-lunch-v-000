@@ -119,6 +119,10 @@ class Delivery {
 // guysAmericanDelivery = new Delivery(macAndCheese.id, redHook.id, guy.id);
 // guysDuplicateDelivery = new Delivery(macAndCheese.id, redHook.id, guy.id);
 // batalisDessert = new Delivery(friedCheesecake.id, redHook.id, marioBatali.id);
+<<<<<<< HEAD
 //
+=======
+// 
+>>>>>>> 872ead3279965c365747c061e1b00671ff559a14
 // console.log(guy.deliveries());
 // console.log(guy.meals());
